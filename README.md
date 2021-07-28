@@ -12,6 +12,5 @@ pip install -r requirements.txt
 ```
 #### Test the code
 ```
-cd Code
 python Main_Code.py
 ```
