@@ -5,3 +5,8 @@ implements, such as knives, sponges, and airbrushes, can be used. In the recent 
 
 * To clear the screen the user must push the 'X' button.
 * To put the system in listen mode, the user must push the 'z' button.
+
+#### Install the required Python packages:
+```
+pip install -r requirements.txt
+```
