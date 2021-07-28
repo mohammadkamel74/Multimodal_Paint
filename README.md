@@ -10,3 +10,8 @@ implements, such as knives, sponges, and airbrushes, can be used. In the recent 
 ```
 pip install -r requirements.txt
 ```
+#### Test the code
+```
+cd Code
+python Main_Code.py
+```
